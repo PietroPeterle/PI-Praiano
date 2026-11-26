@@ -76,6 +76,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <p>Endereço: Av. Governador Mario Covas 2078 - Peruíbe - SP</p>
 
         <p>Atendimento: Quarta a Domingo das 9:00 as 4:00</p>
+
+        <p>Nosso telefone: (13) 99321-9432</p>
     </section>
 </main>
 
